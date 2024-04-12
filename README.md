@@ -1,4 +1,4 @@
-# DesafioRocketseat
+# Desafio Rocketseat
 Desafio para colocar em prática habilidades de FrontEnd.
 
 Primeira vez utilizando uma imagem de fundo para compor a página, obtendo fonts do GoogleFonts, achei o resultado muito bacana!!
